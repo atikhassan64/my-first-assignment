@@ -136,7 +136,7 @@ header {
 
 .testimonial-title{
     text-align: center;
-    font-size: 42px;
+    font-size: 55px;
     font-weight: bold;
     margin-bottom: 50px;
     color: #2f2f2f;
@@ -200,4 +200,32 @@ header {
 .user p{
     color: rgb(117, 117, 117);
     margin-top: 0px;
+}
+
+.sixthy{
+    text-align: center;
+    background-color: #fdf1dc;
+    margin: 100px 140px;
+    border-radius: 14px;
+    padding: 71px 0px;
+}
+.sixthy h2{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.sixthy p{
+    text-align: center;
+}
+
+.button-primary{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.sixthy div img{
+    border-radius: 48px;
 }
