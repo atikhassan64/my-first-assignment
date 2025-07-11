@@ -229,3 +229,121 @@ header {
 .sixthy div img{
     border-radius: 48px;
 }
+
+.input-desk{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 140px;
+}
+
+.input-desk h1{
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.input-desk div form label{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.input-desk div form input{
+    padding: 20px 32px;
+    border-radius: 5px;
+    border: none;
+    background-color: #fdf1dc;
+}
+
+.get-in-touch-container{
+    display: flex;
+    height: 632px;
+    align-items: center;
+    margin: 92px 150px 0px 150px;
+    padding: 71px 0px 71px 0px;
+}
+
+.get-in-touch-title h1{
+    font-size: 97px;
+    font-weight: bold;
+    margin-right: 115px;
+}
+
+form{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+form input, textarea{
+    height: 20px, 50px;
+    width: 350px;
+    padding: 20px 32px 20px 32px;
+    border-radius: 10px;
+    border: 1px solid #fdf1dc;
+}
+
+::placeholder{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+form button{
+    border: none;
+    background-color: #fdf1dc;
+    border-radius: 10px;
+    height: 62px;
+    width: 416px;
+    padding: 20px 32px 20px 32px;
+}
+
+form button a{
+    text-decoration: none;
+    color: #2f2f2f;
+    /* padding: 12px 36px 12px 36px; */
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+.footer{
+    background-color: #fdf1dc;
+    /* height: 500px; */
+    width: 100%;
+    margin-top: 14px;
+}
+
+.footer-content{
+    text-align: center;
+    padding: 104px 400px 103px 400px;
+}
+
+.footer-description h1{
+    font-size: 100px;
+    font-weight: 900;
+}
+
+.footer-description p{
+    font-size: 16px;
+    color: #2f2f2f;
+}
+
+.footer-nav-bar{
+    margin-top: 20px;
+}
+
+.footer-nav-bar ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-nav-bar ul li{
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+    color: #2f2f2f;
+    font-size: 16px;
+}
+
+.hover{
+    
+}
