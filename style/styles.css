@@ -1,0 +1,125 @@
+
+.roboto-normal {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+
+/* Header Section */
+.banner {
+    background-image: url(../image/hero-bg.png);
+    height: 750px;
+    max-width: 100%;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 0 150px;
+    padding-top: 20px;
+    /* padding: 50px 0; */
+}
+
+.logo {
+    font-size: 34px;
+    font-weight: 900;
+    color: #f2a71a;
+    text-decoration: none;
+}
+
+.button-primary {
+    font-weight: bold;
+    padding: 12px 36px;
+    border-radius: 5px;
+    border: none;
+    color: #f2a71a;
+    background-color: #2f2f2f;
+    cursor: grab;
+}
+
+.font-size{
+    font-size: 24;
+    font-weight: 400;
+}
+
+.header-text {
+    margin: 0px 265px;
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+.secound-title {
+    font-size: 65px;
+    font-weight: bold;
+    /* text-align: center; */
+    color: #2f2f2f;
+    margin-bottom: 25px;
+}
+
+.Main-body{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 140px;
+    padding-top: 68px;
+    padding-bottom: 60px;
+    align-items: center;
+    background-color: white;
+    gap: 500px;
+}
+
+.image-secound{
+    border-radius: 50px;
+}
+
+.thirt-h{
+    font-size: 42;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.achivement{
+    display: flex;
+    justify-content: space-around;
+}
+
+.achivement-title{
+    margin: 50px 140px;
+    background-color: #f2a71a;
+    padding: 50px 130px;
+    text-align: center;
+    border-radius: 24px;
+    color: #2f2f2f;
+}
+
+.fivethy{
+    font-size: 80px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+
+.size-pra{
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 0px;
+}
+
+.hedline{
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+/* list star */
+.list-star{
+    list-style: none;
+    display: flex;
+}
