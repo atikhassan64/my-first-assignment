@@ -73,7 +73,7 @@ header {
     padding-bottom: 60px;
     align-items: center;
     background-color: white;
-    gap: 500px;
+    gap: 100px;
 }
 
 .image-secound{
@@ -81,7 +81,7 @@ header {
 }
 
 .thirt-h{
-    font-size: 42;
+    font-size: 60;
     font-weight: bold;
     margin-bottom: 0px;
 }
@@ -259,6 +259,7 @@ header {
     align-items: center;
     margin: 92px 150px 0px 150px;
     padding: 71px 0px 71px 0px;
+    justify-content: space-between;
 }
 
 .get-in-touch-title h1{
@@ -345,5 +346,5 @@ li a{
 }
 
 .hover{
-    
+
 }
